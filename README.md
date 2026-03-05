@@ -59,7 +59,7 @@ Proyecto experimental de instalación de macOS en PC. Documentación detallada d
 ## 🤝 Conecta Conmigo
 
 - 📧 Email: samuparre96@gmail.com
-- 💼 LinkedIn: [[linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)](https://www.linkedin.com/in/samuel-parre%C3%B1o-069a21108/)
+- 💼 LinkedIn: (https://linkedin.com/in/tu-perfil)](https://www.linkedin.com/in/samuel-parre%C3%B1o-069a21108/)
 
 
 ## 💡 Lo que Estoy Buscando
