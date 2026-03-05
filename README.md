@@ -1,18 +1,18 @@
-# ¡Hola! Soy Desarrollador Mobile 👋
+# ESTUDIANTE DE DESARROLLO DE APPS 👋
 
-**Desarrollador apasionado | IoT & Smart Home | Estudiante de DAM**
+**Desarrollador apasionado | APP Developer | Estudiante de DAM**
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador enfocado en crear soluciones innovadoras con Android, Kotlin y tecnologías de IoT. Actualmente estoy cursando el Grado Superior en Desarrollo de Aplicaciones Multiplataforma en la Universidad Alfonso X El Sabio (UAX Madrid).
+Bienvenido a mi perfil de GitHub. Soy un desarrollador enfocado en crear aplicaciones innovadoras con Android, Kotlin / IOS, Swift y tecnologías de IoT. Actualmente estoy cursando el Grado Superior en Desarrollo de Aplicaciones Multiplataforma en la Universidad Alfonso X El Sabio (UAX Madrid).
 
 ---
 
 ## 🚀 Sobre Mí
 
-- 📱 **Especialización**: Desarrollo móvil con Android & Kotlin
+- 📱 **Especialización**: Desarrollo móvil con Android & Kotlin / IOS & Switf
 - 🏠 **Intereses**: IoT, automatización del hogar, sistemas embebidos
 - 🎓 **Estudios**: DAM (Grado Superior) en UAX Madrid
 - 📍 **Ubicación**: Madrid, España
-- 🎯 **Objetivo**: Busco internship en desarrollo de software
+- 🎯 **Objetivo**: Trabajar como desarrollador de apps Android e IOS
 
 ## 💻 Tech Stack
 
@@ -48,37 +48,23 @@ Controlador universal de dispositivos por infrarrojos (TV, aire acondicionado) c
 Proyecto experimental de instalación de macOS en PC. Documentación detallada de proceso, desafíos y lecciones aprendidas.
 **Stack:** Sistema operativo, BIOS, Bootloaders, Troubleshooting
 
-## 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laniakea96&show_icons=true&theme=dark)
 
 ## 🎯 Actualmente
 
+- 📚 Aprendiendo Desarrollo de aplicaciones multiplataforma
 - 🔨 Trabajando en proyectos de IoT y automatización del hogar
-- 📚 Aprendiendo arquitectura de microservicios y Flutter
-- 🚀 Preparándome para internships en empresas tech
-- 💡 Explorando machine learning y AI en edge devices
+- 🚀 Comenzando las prácticas en empresas
+- 💡 Explorando AI y automatiaciones
 
 ## 🤝 Conecta Conmigo
 
-- 📧 Email: tu-email@example.com
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- 🌐 Portfolio: [Tu Website](https://tu-website.com)
-- 📱 Instagram: [@tu-usuario](https://instagram.com/tu-usuario)
+- 📧 Email: samuparre96@gmail.com
+- 💼 LinkedIn: [[linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)](https://www.linkedin.com/in/samuel-parre%C3%B1o-069a21108/)
+
 
 ## 💡 Lo que Estoy Buscando
 
+✨ Trabajo en desarrollo multiplataforma
 ✨ Internship en desarrollo de software  
-✨ Proyectos colaborativos en mobile o IoT  
-✨ Mentoría en arquitectura de software  
-✨ Colaboraciones en open source  
+✨ Proyectos colaborativos en mobile o IoT    
 
-## 📝 Última Actualización
-
-Este perfil fue actualizado el **24 de Enero de 2026** ✨
-
----
-
-*"La tecnología es la mejor herramienta para resolver problemas reales. Cada proyecto es una oportunidad de aprender y crecer."*
-
-⭐️ Si te gusta mi trabajo, ¡no dudes en dar una estrella a mis repositorios! ⭐️
