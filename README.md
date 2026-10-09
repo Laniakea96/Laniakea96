@@ -17,8 +17,8 @@ Gestor de suscripciones y gastos recurrentes: recordatorios antes de cada renova
 Busca ofertas en LinkedIn, Indeed, InfoJobs y más portales, las puntúa, rellena formularios automáticamente y usa IA (Claude) para responder preguntas, escribir cartas de presentación y adaptar el CV a cada oferta.
 `Swift` `SwiftUI` `WebKit` `Core Text` `Claude API`
 
-### 🌌 [Cassiopeia Labs](https://github.com/Laniakea96/Cassiopeia-Labs) · *web del estudio*
-Web de mis apps con fichas, capturas y páginas legales y de soporte para las tiendas.
+### 🌌 [Cassiopeia Labs](https://cassiopeialabs.com) · *web del estudio*
+Web de mis apps con fichas, capturas y páginas legales y de soporte para las tiendas (código privado).
 `Next.js` `React` `TypeScript` `Tailwind CSS` `MDX`
 
 ### 🎉 Piripi · *a punto de salir en App Store* · 💪 Rexis · *en desarrollo*
