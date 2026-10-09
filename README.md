@@ -1,70 +1,59 @@
-# ESTUDIANTE DE DESARROLLO DE APPS 👋
+# Hola, soy Samuel Parreño 👋
 
-**Desarrollador apasionado | APP Developer | Estudiante de DAM**
+**Desarrollador de software · Mobile (Flutter e iOS) y Full-Stack · Madrid**
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador enfocado en crear aplicaciones innovadoras con Android, Kotlin / IOS, Swift y tecnologías de IoT. Actualmente estoy cursando el Grado Superior en Desarrollo de Aplicaciones Multiplataforma en la Universidad Alfonso X El Sabio (UAX Madrid).
+Llevo apps desde la idea hasta la App Store y Google Play: diseño, desarrollo, backend y publicación. Las publico bajo mi estudio independiente, **[Cassiopeia Labs](https://cassiopeialabs.com)**.
 
 ---
 
-## 🚀 Sobre Mí
+## 🚀 Proyectos
 
-- 📱 **Especialización**: Desarrollo móvil con Android & Kotlin / IOS & Switf
-- 🏠 **Intereses**: IoT, automatización del hogar, sistemas embebidos
-- 🎓 **Estudios**: DAM (Grado Superior) en UAX Madrid
-- 📍 **Ubicación**: Madrid, España
-- 🎯 **Objetivo**: Trabajar como desarrollador de apps Android e IOS
+### 💸 [Luupy](https://github.com/Laniakea96/luupy-app) · *publicada en iOS y Android*
+Gestor de suscripciones y gastos recurrentes: recordatorios antes de cada renovación, totales por mes y por año, categorías, widget y suscripción Premium.
+`Flutter` `Dart` `Firebase` `Cloud Functions` `In-App Purchase`
+[App Store](https://apps.apple.com/es/app/luupy-controla-tus-gastos/id6762055476) · [Google Play](https://play.google.com/store/apps/details?id=com.cassiopeialabs.luupy)
 
-## 💻 Tech Stack
+### 🔎 [JobFinder](https://github.com/Laniakea96/jobfinder-app) · *app personal para Mac e iPhone*
+Busca ofertas en LinkedIn, Indeed, InfoJobs y más portales, las puntúa, rellena formularios automáticamente y usa IA (Claude) para responder preguntas, escribir cartas de presentación y adaptar el CV a cada oferta.
+`Swift` `SwiftUI` `WebKit` `Core Text` `Claude API`
 
-**Lenguajes:**
-- Java | Kotlin | Python | JavaScript | SQL | HTML/CSS
+### 🌌 [Cassiopeia Labs](https://github.com/Laniakea96/Cassiopeia-Labs) · *web del estudio*
+Web de mis apps con fichas, capturas y páginas legales y de soporte para las tiendas.
+`Next.js` `React` `TypeScript` `Tailwind CSS` `MDX`
 
-**Móvil:**
-- Android Studio | Firebase | Jetpack Compose | XML Layouts
+### 🎉 Piripi · *a punto de salir en App Store* · 💪 Rexis · *en desarrollo*
+**Piripi:** retos para fiestas que usan los sensores del móvil y reconocimiento de voz, sin conexión y sin cuenta.
+**Rexis:** rutinas que progresan, nutrición con escáner de código de barras y conexión con Apple Salud.
 
-**Backend & Datos:**
-- Flask | JDBC | MySQL | PostgreSQL | SQLite
+---
 
-**IoT & Hardware:**
-- Raspberry Pi 4 | Arduino | Python | GPIO | Sensores
+## 💼 Experiencia
 
-**Cloud & APIs:**
-- AWS (Lambda, IoT Core) | Alexa Skills API | REST APIs
+- **Desarrollador de Software (prácticas) · Temotiva** — 02.2026 – 06.2026 · Remoto
+  App móvil en producción en Flutter y su migración a React Native, integración con API REST y publicación en App Store Connect. Trabajo en equipo con Git, pull requests y code reviews.
+- **Técnico de CRM y Marketing Digital · Caetano Cuzco BMW** — 09.2022 – 02.2026 · Madrid
 
-**Tools & DevOps:**
-- Git | Linux/Ubuntu | Docker | IntelliJ IDEA | Android Studio
+## 🎓 Formación
 
-## ⭐ Proyectos Destacados
+- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** — Universidad Alfonso X el Sabio, 2024 – 2026
 
-### 🌱 [Smart Garden Automation](https://github.com/Laniakea96/smart-garden-automation)
-Sistema inteligente de riego automático para plantas con Raspberry Pi 4 y control por voz mediante Alexa. 
-**Stack:** Python, Flask, Alexa Skills API, SQLite, GPIO
+---
 
-### 🛶 [IR Device Controller](https://github.com/Laniakea96/ir-device-controller)
-Controlador universal de dispositivos por infrarrojos (TV, aire acondicionado) con integración a Alexa.
-**Stack:** Arduino, Python, HTML5, REST API, Alexa Skills
+## 🛠️ Tecnologías
 
-### 🤖 [Hackintosh USB Exploration](https://github.com/Laniakea96/hackintosh-usb-exploration)
-Proyecto experimental de instalación de macOS en PC. Documentación detallada de proceso, desafíos y lecciones aprendidas.
-**Stack:** Sistema operativo, BIOS, Bootloaders, Troubleshooting
+**Lenguajes:** Dart · Swift · JavaScript / TypeScript · Java · Python · SQL · HTML/CSS
+**Mobile:** Flutter · iOS (Swift, SwiftUI) · Android · React Native
+**Backend y cloud:** Firebase (Auth, Firestore, Cloud Functions, Storage) · Node.js · REST APIs · Google Cloud Pub/Sub
+**Web:** Next.js · React · Tailwind CSS
+**Herramientas:** Git · GitHub · Xcode · Android Studio · VS Code · App Store Connect · Google Play Console
+**IA:** Claude Code · Claude API · GitHub Copilot
 
+---
 
-## 🎯 Actualmente
+## 📫 Contacto
 
-- 📚 Aprendiendo Desarrollo de aplicaciones multiplataforma
-- 🔨 Trabajando en proyectos de IoT y automatización del hogar
-- 🚀 Comenzando las prácticas en empresas
-- 💡 Explorando AI y automatiaciones
+Busco trabajo como desarrollador **mobile, full-stack, frontend o backend**, en remoto, híbrido o presencial.
 
-## 🤝 Conecta Conmigo
-
-- 📧 Email: samuparre96@gmail.com
-- 💼 LinkedIn: (https://linkedin.com/in/tu-perfil)](https://www.linkedin.com/in/samuel-parre%C3%B1o-069a21108/)
-
-
-## 💡 Lo que Estoy Buscando
-
-✨ Trabajo en desarrollo multiplataforma
-✨ Internship en desarrollo de software  
-✨ Proyectos colaborativos en mobile o IoT    
-
+- 📧 [samuparre96@gmail.com](mailto:samuparre96@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-parre%C3%B1o-069a21108/)
+- 🌐 [cassiopeialabs.com](https://cassiopeialabs.com)
